@@ -1,0 +1,13 @@
+{
+  "name": "jsonschema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "ajv-errors": "^1.0.0"
+  }
+}
